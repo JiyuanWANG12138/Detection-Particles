@@ -9,3 +9,9 @@ pip install opencv-python
 pip install numpy
 
 pip install matplotlib
+
+for generating the file .exe
+
+pip install pyinstaller
+
+pyinstaller -w -F ViewMain.py
